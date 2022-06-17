@@ -1,4 +1,6 @@
 #working of the project
+
+
 first it start with empty and if you type github username in search box and hit search button it displays the profile on left side and repository on the right side
 it save all history when you click in search box you gate all history of username you have searched and you can review details by clicking and it can't also duplicate the username in history
 
